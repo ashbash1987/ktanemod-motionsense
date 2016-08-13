@@ -10,7 +10,7 @@ Visit https://ashbash1987.github.io/ktanemod-motionsense/Manual for a KTANE-like
 
 ## Steam Workshop Installation
 
-If you purchased _Keep Talking and Nobody Explodes_ through Steam, you'll be able to subscribe to the mod on the Steam Workshop; goto http://steamcommunity.com/sharedfiles/filedetails/?id=xxxx to subscribe to the Motion Sense mod. This will download the module automatically for you, and will continue to download updates for the module when updates are released.
+If you purchased _Keep Talking and Nobody Explodes_ through Steam, you'll be able to subscribe to the mod on the Steam Workshop; goto http://steamcommunity.com/sharedfiles/filedetails/?id=742005442 to subscribe to the Motion Sense mod. This will download the module automatically for you, and will continue to download updates for the module when updates are released.
 
 ## Non-Steam Installation
 
