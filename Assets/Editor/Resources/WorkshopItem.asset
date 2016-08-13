@@ -14,10 +14,10 @@ MonoBehaviour:
   WorkshopPublishedFileID: 742005442
   Title: Motion Sense
   Description: "[b][i]\"Don't move. Its explosiveness is based on movement.\"[/i][/b]\r\n\r\n[h1]About[/h1]\r\nWhen
-    active, this needy module will monitor the movement of the bomb, and if you cause
-    too much movement, you will get a strike for it. Keep your hands steady and only
-    move the bomb if you really need to!\r\n\r\n[h1]Manual Page[/h1]\r\nThis is a
-    pre-release version of the module. As such, I haven't gotten around to making
+    active, this needy module will monitor the rotational movement of the bomb, and
+    if you cause too much movement, you will get a strike for it. Keep your hands
+    steady and only move the bomb if you really need to!\r\n\r\n[h1]Manual Page[/h1]\r\nThis
+    is a pre-release version of the module. As such, I haven't gotten around to making
     the manual page for it yet. Just follow the instructions above for the time being!\r\n\r\n[h1]Mission
     Makers[/h1]\r\nFor those making custom missions and wanting to reference this
     module, the type name is [i][b]MotionSense[/b][/i].\r\n\r\n[h1]Addendum[/h1]\r\nFurther
