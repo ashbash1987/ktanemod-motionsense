@@ -1,6 +1,6 @@
 # Motion Sense - a KTANEModKit module
 
-![Motion Sense Module](https://ashbash1987.github.io/ktanemod-motionsense/Manual/img/Component.png "Motion Sense Module")
+![Motion Sense Module](https://ashbash1987.github.io/ktanemod-motionsense/Manual/img/Component.svg "Motion Sense Module")
 
 Motion Sense is a module using the KTaNE modkit for _Keep Talking and Nobody Explodes_. When active, the module will track rotational movement of the bomb, and will cause a strike if the defuser rotates the bomb too much within a given timeframe.
 
