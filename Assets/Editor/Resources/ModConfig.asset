@@ -20,6 +20,6 @@ MonoBehaviour:
     manual PDF is included in the download. However, you can also [url=https://ashbash1987.github.io/ktanemod-motionsense/Manual/]click
     here[/url] to view it online.\r\n\r\n[h1]Mission Makers[/h1]\r\nFor those making
     custom missions and wanting to reference this module, the type name is [i][b]MotionSense[/b][/i]."
-  version: v1.1.0
+  version: v1.1.1
   outputFolder: E:\Games\SteamLibrary\steamapps\common\Keep Talking and Nobody Explodes\mods
   previewImage: {fileID: 2800000, guid: fc38eff07fb2f51469ac309cca164e26, type: 3}
